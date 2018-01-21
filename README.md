@@ -48,8 +48,9 @@ I've created a Whack a cookie game from scratch following the guide of Learn Gam
 #### University of Granada(November 2012 to May 2013)
 - Master’s Degree in Emergency and Critical Care
 
-#### Buchkingamshire New Univerity (February 2016 to June 2016)
-Postgrade Course of Postoperative Care 	
+#### Buchkingamshire New University (February 2016 to June 2016)
+Faculty of Health and Society
+Postgraduate Course of Postoperative Care in the Perioperative environment	
 
 
 ## Experience
