@@ -8,7 +8,7 @@
 
 
 ## About Me
-------------
+
 
 I’m a full-stack developer and a former nurse especialised in Critical Care, who has moved out of her confort zone to learn software development in one of the Europe's Top Academy. I'm a curious person, who likes facing new challenges and learning from new experiences, that's one of the reasons why I moved from sunny days in Spain to rainny days in London four years ago.
 
@@ -20,7 +20,7 @@ My main goal after Makers is to become a part of  the software development team 
 
 
 ## Projects
------------
+
 
 |  Project  |      Description    |  Technologies |
 | :---------: | :-----------------: | :-----------: |
@@ -29,9 +29,8 @@ My main goal after Makers is to become a part of  the software development team 
 | [Chitter Challenge](https://github.com/jennymarin1989/chitter-challenge.git) | A solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, sql Postgres |
 
 
-
 ## Skills
----------
+
 
 ### Critical thinking
 
@@ -59,9 +58,8 @@ In Makers, one of my significants achievements was  working as a part of a team 
 
 
 
-
 ## Education
--------------
+
 
 #### Makers Academy (22/01/18 - present)
 
@@ -85,9 +83,8 @@ Faculty of Health and Society
 Postgraduate Course of Postoperative Care in the Perioperative environment	
 
 
-
 ## Experience
---------------
+
 
 **Quiron Hospital**(September 2010 - December 2013)
 *RN Nurse in Accident and Emergency Unit (Malaga-Spain)*
@@ -105,10 +102,7 @@ Postgraduate Course of Postoperative Care in the Perioperative environment
 *Band 6 senior Staff Nurse in Intensive Care Unit (London)*
 
 
-
-
 ## Interests
--------------
 
 - I like running, Yoga and meditation, it helps me to find the peace and connect with my spiritual self.
 - Travelling around the world is one of my biggest hobbies, I love learning from other cultures and discovering new places.
