@@ -1,11 +1,21 @@
 
-## Jenny Arenas Marin
+# <p align="center"> Jenny Arenas Marin </p>
+<p align="center">
+https://github.com/jennymarin1989 :mailbox_with_mail:
 
-I’m a nurse especialised in Critical Care, who has moved out of her confort zone to learn software development in one of the Europe's Top Academy. I'm a curious person, who likes facing new challenges and learning from new experiences, that's one of the reasons why I moved from sunny days in Spain to rainny days in London four years ago.
+|[About Me](#about-Me) | [Skills](#skills)|[Education](#education)  |[Experience](#experience)|
 
-For the past four years, I've been working in different areas of nursing obtaining clinical experience in Postoperative Care and Intensive Care. I'm a proactive and compassionate person who loves helping others to achieve their goals, this helped me to get a promotion of Band 6 Senior Staff nurse on 2016.
 
-I chose nursing as a vocational career. However, I’ve decided to try something totally different learning new skills in the Tech field. I would like to help people combining my healthcare experience with all knowledge obtained in Makers Academy.
+
+##About Me
+
+I’m a full-stack developer and a former nurse especialised in Critical Care, who has moved out of her confort zone to learn software development in one of the Europe's Top Academy. I'm a curious person, who likes facing new challenges and learning from new experiences, that's one of the reasons why I moved from sunny days in Spain to rainny days in London four years ago.
+
+For the past four years, I've been working in different areas of clinical nursing obtaining  experience in Postoperative Care and Intensive Care. I'm a proactive and compassionate person who loves helping others to achieve their goals, this helped me to get a promotion of Band 6 Senior Staff nurse on 2016.
+
+I chose nursing as a vocational career. However, I’ve decided to try something totally different learning to learn new languages and skills in Makers Academy. 
+
+My main goal after Makers is to become a part of  the software development team in a Tech Company contributing to achieve common goals, helping with the creation of new projects and giving the people the opportunity to interact with them.
 
 
 ## Skills
@@ -18,7 +28,13 @@ I'm used to work in critical situations where I need to apply specific protocols
 
 In Intensive Care, working as a part of a team is a must, everyone has to bring their best, sharing ideas and learning from others, in order to achieve a common goal. Improving the patient's condition.
 
-Whilst at Makers, I've enjoyed learning from others sharing my experience in a teamwork environment, it helped me to keep motivated, developing my skills and achieving personal goals.
+Whilst at Makers, I've enjoyed learning from others sharing my experience and achieving common goals in a teamwork environment, implementing a feedback culture which helped me to keep motivated, developing my skills and achieving personal goals.
+
+
+#### Commitment
+
+I'm a focused and a passionate person who works hard towards an objective without giving up.
+Whilst at Makers I had to face some challenges but I stayed motivated and I could accomplish my goals.
 
 
 #### Achievements and contributions
@@ -34,13 +50,15 @@ I've created a Whack a cookie game from scratch following the guide of Learn Gam
 
 #### Makers Academy (22/01/18 - present)
 
-- Curious and passionate about code. 
-- Fast, independent learner 
-- Great collaborator 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+
+- Behaviour Driven Development, Test Driven Development.
+- OOP and SRP principles
+- Agile/XP values
+- Languages: Ruby, JavaScript, Swift
+- Testing Framework: RSpec, Jasmine, Jest
+- Ruby frameworks and libraries: Ruby on Rails, Sinatra
+- Javascript framework and libraries: Jquery, React
+
 
 #### University of Malaga (September 2006 to September 2009)
 - Adult Nursing Degree
