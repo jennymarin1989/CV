@@ -1,6 +1,7 @@
 
-# <p align="center">  Jenny Arenas Marin  </p>
+# <p align="center">  *Jenny Arenas Marin*  </p>
 <p align="center">:books: https://github.com/jennymarin1989 :game_die:
+
 
 
 ### | [About Me](#about-Me) | [Projects](#projects) |[Skills](#skills) | [Education](#education) | [Experience](#experience) |
