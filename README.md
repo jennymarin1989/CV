@@ -1,13 +1,13 @@
 
-# <p align="center"> Jenny Arenas Marin </p>
+# <p align="center"> * Jenny Arenas Marin * </p>
 <p align="center">
 https://github.com/jennymarin1989 :mailbox_with_mail:
 
-|[About Me](#about-Me) | [Skills](#skills)|[Education](#education)  |[Experience](#experience)|
+| [About Me](#about-Me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
 
 
-##About Me
+## About Me
 
 I’m a full-stack developer and a former nurse especialised in Critical Care, who has moved out of her confort zone to learn software development in one of the Europe's Top Academy. I'm a curious person, who likes facing new challenges and learning from new experiences, that's one of the reasons why I moved from sunny days in Spain to rainny days in London four years ago.
 
@@ -17,42 +17,52 @@ I chose nursing as a vocational career. However, I’ve decided to try something
 
 My main goal after Makers is to become a part of  the software development team in a Tech Company contributing to achieve common goals, helping with the creation of new projects and giving the people the opportunity to interact with them.
 
+#### Projects
+|  Project  |      Description    |  Technologies |
+| :---------: | :-----------------: | :-----------: |
+|  [Mediminder](https://github.com/jennymarin1989/mediminder.git) | An ios app which reminds the user to take the medication with a notification. Built as a practice project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode, XCtest |
+|   [Fotogram](https://github.com/jennymarin1989/instagram-challenge.git)  | A solo project where the goal was to build a version of Instagram whilst using/learning Ruby on Rails | Ruby, Rails, Rspec|
+| [Chitter Challenge](https://github.com/jennymarin1989/chitter-challenge.git) | A solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, sql Postgres |
+
 
 ## Skills
 
 #### Critical thinking
+----------------------
 
 I'm used to work in critical situations where I need to apply specific protocols and guidelines, following an scientific and specific order of thinking  ABCDE ( Airway, Breathing, Circulation, Disability and Exposure) So, I'm able to use my experience  applying a methodical way of thinking. 
 
-#### Teamwork
+#### Teamplayer
+--------------
 
 In Intensive Care, working as a part of a team is a must, everyone has to bring their best, sharing ideas and learning from others, in order to achieve a common goal. Improving the patient's condition.
 
 Whilst at Makers, I've enjoyed learning from others sharing my experience and achieving common goals in a teamwork environment, implementing a feedback culture which helped me to keep motivated, developing my skills and achieving personal goals.
 
 
-#### Commitment
+### Commitment
+----------------
 
 I'm a focused and a passionate person who works hard towards an objective without giving up.
 Whilst at Makers I had to face some challenges but I stayed motivated and I could accomplish my goals.
 
 
-#### Achievements and contributions
+### Achievements and contributions
+-----------------------------------
 
 One of my biggest achievements in my career was getting my post of Band 6 Senior Nurse and receiving positive feedbacks from my patients and colleagues, it kept me motivated.
 
-I contributed to the growth of the Postoperative Care unit while working in Ealing Hospital, I helped to create new guidelines and trained new staff.
+I contributed to the growth of the Postoperative Care unit helping to create new guidelines and trained new staff.
 
-I've created a Whack a cookie game from scratch following the guide of Learn Game Programming with ruby ( The Pragmatic Programmers). Ckeck my github profile
+In Makers, one of my significants achievements was  working as a part of a team in a final project, learning from others, contributing with ideas and getting a full-stack web application as a result.
 
 
 ## Education
 
 #### Makers Academy (22/01/18 - present)
 
-
-- Behaviour Driven Development, Test Driven Development.
 - OOP and SRP principles
+- Behaviour Driven Development, Test Driven Development.
 - Agile/XP values
 - Languages: Ruby, JavaScript, Swift
 - Testing Framework: RSpec, Jasmine, Jest
@@ -73,7 +83,7 @@ Postgraduate Course of Postoperative Care in the Perioperative environment
 
 ## Experience
 
-**Great Wester Hospital** (March 2014 to August 2014)
+**Great Western Hospital** (March 2014 to August 2014)
 *RN Nurse in Acute Medical Unit(Swindon)*
 
 **Great Wester Hospital** (August 2014 to February 2015)   
@@ -88,8 +98,8 @@ Postgraduate Course of Postoperative Care in the Perioperative environment
 
 ## Interests
 
-I like running, Yoga and meditation, it helps me to find the peace and connect with my spiritual self
-Travelling around the world is one of my biggest hobbies, I love learning from other cultures and discovering new places
+I like running, Yoga and meditation, it helps me to find the peace and connect with my spiritual self.
+Travelling around the world is one of my biggest hobbies, I love learning from other cultures and discovering new places.
 
 
 
