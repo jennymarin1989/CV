@@ -1,10 +1,9 @@
 
 # <p align="center">  Jenny Arenas Marin  </p>
-<p align="center">
-https://github.com/jennymarin1989 :mailbox_with_mail:
+<p align="center">:books: https://github.com/jennymarin1989 :game_die:
 
 
-## | [About Me](#about-Me) | [Projects](#projects)|[Skills](#skills) | [Education](#education) | [Experience](#experience) |
+### | [About Me](#about-Me) | [Projects](#projects) |[Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
 
 
@@ -55,7 +54,9 @@ Whilst at Makers I had to face some challenges but I stayed motivated and I coul
 ### Achievements and contributions
 
 One of my biggest achievements in my career was getting my post of Band 6 Senior Nurse and receiving positive feedbacks from my patients and colleagues, it kept me motivated.I contributed to the growth of the Postoperative Care unit helping to create new guidelines and trained new staff.
+
 In Makers, one of my significants achievements was  working as a part of a team in a final project, learning from others, contributing with ideas and getting a full-stack web application as a result.
+
 
 
 
@@ -84,6 +85,7 @@ Faculty of Health and Society
 Postgraduate Course of Postoperative Care in the Perioperative environment	
 
 
+
 ## Experience
 --------------
 
@@ -97,18 +99,20 @@ Postgraduate Course of Postoperative Care in the Perioperative environment
 *RN nurse in Acute Stroke Unit*  
 
 **Ealing Hospital** (March 2015 to November 2016)
-* Senior Staff Nurse in Postoperative Care Unit (London)*
+*Senior Staff Nurse in Postoperative Care Unit (London)*
 
 **Ealing Hospital** (November 2016 to December 2017)
 *Band 6 senior Staff Nurse in Intensive Care Unit (London)*
 
 
 
+
 ## Interests
 -------------
 
-I like running, Yoga and meditation, it helps me to find the peace and connect with my spiritual self.
-Travelling around the world is one of my biggest hobbies, I love learning from other cultures and discovering new places.
+- I like running, Yoga and meditation, it helps me to find the peace and connect with my spiritual self.
+- Travelling around the world is one of my biggest hobbies, I love learning from other cultures and discovering new places.
+
 
 
 
