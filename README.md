@@ -79,9 +79,9 @@ In Makers, one of my significants achievements was  working as a part of a team 
 #### University of Granada(November 2012 - May 2013)
 - Master’s Degree in Emergency and Critical Care
 
-#### Buchkingamshire New University (February 2016 to June 2016)
+#### Buckinghamshire New University (February 2016 to June 2016)
 Faculty of Health and Society
-Postgraduate Course of Postoperative Care in the Perioperative environment	
+- Postgraduate Course of Postoperative Care in the Perioperative environment	
 
 
 ## Experience
