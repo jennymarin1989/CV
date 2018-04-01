@@ -1,13 +1,15 @@
 
-# <p align="center"> * Jenny Arenas Marin * </p>
+# <p align="center">  Jenny Arenas Marin  </p>
 <p align="center">
 https://github.com/jennymarin1989 :mailbox_with_mail:
 
-| [About Me](#about-Me) | [Skills](#skills) | [Education](#education) | [Experience](#experience) |
+
+## | [About Me](#about-Me) | [Projects](#projects)|[Skills](#skills) | [Education](#education) | [Experience](#experience) |
 
 
 
 ## About Me
+------------
 
 I’m a full-stack developer and a former nurse especialised in Critical Care, who has moved out of her confort zone to learn software development in one of the Europe's Top Academy. I'm a curious person, who likes facing new challenges and learning from new experiences, that's one of the reasons why I moved from sunny days in Spain to rainny days in London four years ago.
 
@@ -17,7 +19,10 @@ I chose nursing as a vocational career. However, I’ve decided to try something
 
 My main goal after Makers is to become a part of  the software development team in a Tech Company contributing to achieve common goals, helping with the creation of new projects and giving the people the opportunity to interact with them.
 
-#### Projects
+
+## Projects
+-----------
+
 |  Project  |      Description    |  Technologies |
 | :---------: | :-----------------: | :-----------: |
 |  [Mediminder](https://github.com/jennymarin1989/mediminder.git) | An ios app which reminds the user to take the medication with a notification. Built as a practice project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode, XCtest |
@@ -25,15 +30,16 @@ My main goal after Makers is to become a part of  the software development team 
 | [Chitter Challenge](https://github.com/jennymarin1989/chitter-challenge.git) | A solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, sql Postgres |
 
 
-## Skills
 
-#### Critical thinking
-----------------------
+## Skills
+---------
+
+### Critical thinking
 
 I'm used to work in critical situations where I need to apply specific protocols and guidelines, following an scientific and specific order of thinking  ABCDE ( Airway, Breathing, Circulation, Disability and Exposure) So, I'm able to use my experience  applying a methodical way of thinking. 
 
-#### Teamplayer
---------------
+
+### Teamplayer
 
 In Intensive Care, working as a part of a team is a must, everyone has to bring their best, sharing ideas and learning from others, in order to achieve a common goal. Improving the patient's condition.
 
@@ -41,39 +47,36 @@ Whilst at Makers, I've enjoyed learning from others sharing my experience and ac
 
 
 ### Commitment
-----------------
 
 I'm a focused and a passionate person who works hard towards an objective without giving up.
 Whilst at Makers I had to face some challenges but I stayed motivated and I could accomplish my goals.
 
 
 ### Achievements and contributions
------------------------------------
 
-One of my biggest achievements in my career was getting my post of Band 6 Senior Nurse and receiving positive feedbacks from my patients and colleagues, it kept me motivated.
-
-I contributed to the growth of the Postoperative Care unit helping to create new guidelines and trained new staff.
-
+One of my biggest achievements in my career was getting my post of Band 6 Senior Nurse and receiving positive feedbacks from my patients and colleagues, it kept me motivated.I contributed to the growth of the Postoperative Care unit helping to create new guidelines and trained new staff.
 In Makers, one of my significants achievements was  working as a part of a team in a final project, learning from others, contributing with ideas and getting a full-stack web application as a result.
 
 
+
 ## Education
+-------------
 
 #### Makers Academy (22/01/18 - present)
 
+- Agile/XP values
 - OOP and SRP principles
 - Behaviour Driven Development, Test Driven Development.
-- Agile/XP values
 - Languages: Ruby, JavaScript, Swift
 - Testing Framework: RSpec, Jasmine, Jest
 - Ruby frameworks and libraries: Ruby on Rails, Sinatra
 - Javascript framework and libraries: Jquery, React
 
 
-#### University of Malaga (September 2006 to September 2009)
-- Adult Nursing Degree
+#### University of Malaga (September 2006 - September 2009)
+- Adult Nursing Degree/Registered Nursing
 
-#### University of Granada(November 2012 to May 2013)
+#### University of Granada(November 2012 - May 2013)
 - Master’s Degree in Emergency and Critical Care
 
 #### Buchkingamshire New University (February 2016 to June 2016)
@@ -82,21 +85,27 @@ Postgraduate Course of Postoperative Care in the Perioperative environment
 
 
 ## Experience
+--------------
+
+**Quiron Hospital**(September 2010 - December 2013)
+*RN Nurse in Accident and Emergency Unit (Malaga-Spain)*
 
 **Great Western Hospital** (March 2014 to August 2014)
-*RN Nurse in Acute Medical Unit(Swindon)*
+*RN Nurse in Acute Medical Unit (Swindon)*
 
-**Great Wester Hospital** (August 2014 to February 2015)   
+**Great Western Hospital** (August 2014 to February 2015)   
 *RN nurse in Acute Stroke Unit*  
 
-**West Ealing Hospital** (March 2015 to November 2016)
+**Ealing Hospital** (March 2015 to November 2016)
 * Senior Staff Nurse in Postoperative Care Unit (London)*
 
-**West Ealing Hospital** (November 2016 to December 2017)
+**Ealing Hospital** (November 2016 to December 2017)
 *Band 6 senior Staff Nurse in Intensive Care Unit (London)*
 
 
+
 ## Interests
+-------------
 
 I like running, Yoga and meditation, it helps me to find the peace and connect with my spiritual self.
 Travelling around the world is one of my biggest hobbies, I love learning from other cultures and discovering new places.
