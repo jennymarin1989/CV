@@ -24,7 +24,7 @@ My main goal after Makers is to become a part of  the software development team 
 |  Project  |      Description    |  Technologies |
 | :---------: | :-----------------: | :-----------: |
 |  [Slath](https://github.com/jennymarin1989/Slath.git) | Final project idea in construction where the goal of the group is to build an interactive game that takes the user on a language-learning journey. | React, node.js, Express, mongodb, jest |
-|  [Mediminder](https://github.com/jennymarin1989/mediminder.git) | An ios app which reminds the user to take the medication with a notification. Built as a practice project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode, XCtest |
+|  [Mediminder](https://github.com/jennymarin1989/mediminder.git) | An ios app which reminds the user to take the medication with a notification. Built as a practice project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode 9.2, XCtest |
 |   [Fotogram](https://github.com/jennymarin1989/instagram-challenge.git)  | A solo project where the goal was to build a version of Instagram whilst using/learning Ruby on Rails | Ruby, Rails, Rspec|
 | [Chitter Challenge](https://github.com/jennymarin1989/chitter-challenge.git) | A solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, sql Postgres |
 
@@ -36,14 +36,14 @@ My main goal after Makers is to become a part of  the software development team 
 
 I'm used to work in critical situations where I need to apply specific protocols and guidelines, following an scientific and specific order of thinking  ABCDE ( Airway, Breathing, Circulation, Disability and Exposure) So, I'm able to use my experience  applying a methodical way of thinking. 
 
-At Makers, I've learnt how to implement this skill into coding, breaking the problem down in small pieces and implementing solutions step by step.
+At Makers, I've learnt how to implement this skill into coding, breaking the problem down in small pieces using tools like flow charts,  diagrams and  domain models making a represenation of the problem and the systematic approach.
 
 
 ### Teamplayer
 
-In Intensive Care, working as a part of a team is a must, everyone has to bring their best, sharing ideas and learning from others, in order to achieve a common goal. Improving the patient's condition.
+Working as a part of a team is a must in Critical Care where everyone has to bring their best, sharing ideas and learning from others, in order to achieve a common goal. Improving the patient's condition.
 
-Whilst at Makers, I've enjoyed learning from others sharing my experience and achieving common goals in a teamwork environment, implementing a feedback culture which helped me to keep motivated, developing my skills and achieving personal goals. An example of this could be the achievement of a practice project in five days.
+Whilst at Makers, I've enjoyed learning from others sharing my experience and achieving common goals in a teamwork environment, implementing a feedback culture which helped me to keep motivated, developing my skills and achieving personal goals. An example of this would be the achievement of a practice group project in 5 days, in this project our main goal was to build an app where the user can receive notifications 
 
 
 ### Commitment
@@ -102,6 +102,10 @@ Faculty of Health and Society
 
 **Ealing Hospital** (November 2016 to December 2017)
 *Band 6 senior Staff Nurse in Intensive Care Unit (London)*
+
+## Languages
+
+- Spanish(mother language)
 
 
 ## Interests
