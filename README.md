@@ -23,6 +23,7 @@ My main goal after Makers is to become a part of  the software development team 
 
 |  Project  |      Description    |  Technologies |
 | :---------: | :-----------------: | :-----------: |
+|  [Slath](https://github.com/jennymarin1989/Slath.git) | Final project idea in construction where the goal of the group is to build an interactive game that takes the user on a language-learning journey. | React, node.js, Express, mongodb, jest |
 |  [Mediminder](https://github.com/jennymarin1989/mediminder.git) | An ios app which reminds the user to take the medication with a notification. Built as a practice project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode, XCtest |
 |   [Fotogram](https://github.com/jennymarin1989/instagram-challenge.git)  | A solo project where the goal was to build a version of Instagram whilst using/learning Ruby on Rails | Ruby, Rails, Rspec|
 | [Chitter Challenge](https://github.com/jennymarin1989/chitter-challenge.git) | A solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, sql Postgres |
