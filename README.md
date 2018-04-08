@@ -11,9 +11,7 @@
 ## About Me
 
 
-I’m a full-stack developer and a former nurse especialised in Critical Care, who has moved out of her confort zone to learn software development in one of the Europe's Top Academy. I'm a curious person, who likes facing new challenges and learning from new experiences, that's one of the reasons why I moved from sunny days in Spain to rainny days in London four years ago.
-
-For the past four years, I've been working in different areas of clinical nursing obtaining  experience in Postoperative Care and Intensive Care. I'm a proactive and compassionate person who loves helping others to achieve their goals, this helped me to get a promotion of Band 6 Senior Staff nurse on 2016.
+I’m a full-stack developer and a former nurse especialised in Critical Care, who has moved out of her confort zone to learn software development at [Makers Academy](https://www.makersacademy.com/). I'm a curious person, who likes facing new challenges and learning from new experiences, that's one of the reasons why I moved from sunny days in Spain to rainy days in London four years ago.
 
 I chose nursing as a vocational career. However, I’ve decided to try something totally different learning to learn new languages and skills in Makers Academy. 
 
@@ -37,12 +35,14 @@ My main goal after Makers is to become a part of  the software development team 
 
 I'm used to work in critical situations where I need to apply specific protocols and guidelines, following an scientific and specific order of thinking  ABCDE ( Airway, Breathing, Circulation, Disability and Exposure) So, I'm able to use my experience  applying a methodical way of thinking. 
 
+At Makers, I've learnt how to implement this skill into coding, breaking the problem down in small pieces and implementing solutions step by step.
+
 
 ### Teamplayer
 
 In Intensive Care, working as a part of a team is a must, everyone has to bring their best, sharing ideas and learning from others, in order to achieve a common goal. Improving the patient's condition.
 
-Whilst at Makers, I've enjoyed learning from others sharing my experience and achieving common goals in a teamwork environment, implementing a feedback culture which helped me to keep motivated, developing my skills and achieving personal goals.
+Whilst at Makers, I've enjoyed learning from others sharing my experience and achieving common goals in a teamwork environment, implementing a feedback culture which helped me to keep motivated, developing my skills and achieving personal goals. An example of this could be the achievement of a practice project in five days.
 
 
 ### Commitment
@@ -53,9 +53,9 @@ Whilst at Makers I had to face some challenges but I stayed motivated and I coul
 
 ### Achievements and contributions
 
-One of my biggest achievements in my career was getting my post of Band 6 Senior Nurse and receiving positive feedbacks from my patients and colleagues, it kept me motivated.I contributed to the growth of the Postoperative Care unit helping to create new guidelines and trained new staff.
+One of my biggest achievements in my career was my contribution to the growth of the Postoperative Care unit helping to create new guidelines and training new staff.
 
-In Makers, one of my significants achievements was  working as a part of a team in a final project, learning from others, contributing with ideas and getting a full-stack web application as a result.
+In Makers, one of my significants achievements was  working as a part of a team in a practice and final project, learning from others, contributing with ideas and getting a full-stack web application as a result.
 
 
 
@@ -107,6 +107,7 @@ Faculty of Health and Society
 
 - I like running, Yoga and meditation, it helps me to find the peace and connect with my spiritual self.
 - Travelling around the world is one of my biggest hobbies, I love learning from other cultures and discovering new places.
+- I like attending workshops and meetups at codebar and Learn Ruby on Rails by doing, where I learn from experienced coaches in a collaborative environment.
 
 
 
