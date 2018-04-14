@@ -1,4 +1,3 @@
-
 # <p align="center">  *Jenny Arenas Marin*  </p>
 <p align="center">:books: https://github.com/jennymarin1989 :game_die:
 
@@ -11,11 +10,11 @@
 ## About Me
 
 
-I’m a full-stack developer and a former nurse especialised in Critical Care, who has moved out of her confort zone to learn software development at [Makers Academy](https://www.makersacademy.com/). I'm a curious person, who likes facing new challenges and learning from new experiences, that's one of the reasons why I moved from sunny days in Spain to rainy days in London four years ago.
+I’m a full-stack developer and a former nurse specialising in Critical Care who has moved out of her comfort zone to learn software development at [Makers Academy](https://www.makersacademy.com/). 
 
-I chose nursing as a vocational career. However, I’ve decided to try something totally different learning to learn new languages and skills in Makers Academy. 
+I'm a curious person who is motivated by new challenges and learning from new experiences. This is one of the reasons why I moved from Spain to London four years ago and am now making the switch from a vocational career in nursing to learning to program and follow coding best-practice at Makers Academy.
 
-My main goal after Makers is to become a part of  the software development team in a Tech Company contributing to achieve common goals, helping with the creation of new projects and giving the people the opportunity to interact with them.
+My main goal after Makers is to join the software development team of a tech company contributing to achieving common goals, contributing to the creation of new projects and giving people the opportunity to interact with them.
 
 
 ## Projects
@@ -23,7 +22,7 @@ My main goal after Makers is to become a part of  the software development team 
 
 |  Project  |      Description    |  Technologies |
 | :---------: | :-----------------: | :-----------: |
-|  [Slath](https://github.com/jennymarin1989/Slath.git) | Final project idea in construction where the goal of the group is to build an interactive game that takes the user on a language-learning journey. | React, node.js, Express, mongodb, jest |
+|  [Localiz R](https://github.com/jennymarin1989/LocalizR.git) | Final project where the goal of the group is to build an interactive app that takes the user on a language-learning journey. | React, node.js, Express, mongodb, jest |
 |  [Mediminder](https://github.com/jennymarin1989/mediminder.git) | An ios app which reminds the user to take the medication with a notification. Built as a practice project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode 9.2, XCtest |
 |   [Fotogram](https://github.com/jennymarin1989/instagram-challenge.git)  | A solo project where the goal was to build a version of Instagram whilst using/learning Ruby on Rails | Ruby, Rails, Rspec|
 | [Chitter Challenge](https://github.com/jennymarin1989/chitter-challenge.git) | A solo project to build a clone of Twitter | Ruby, Sinatra, Capybara, Rspec, sql Postgres |
@@ -36,14 +35,14 @@ My main goal after Makers is to become a part of  the software development team 
 
 I'm used to work in critical situations where I need to apply specific protocols and guidelines, following an scientific and specific order of thinking  ABCDE ( Airway, Breathing, Circulation, Disability and Exposure) So, I'm able to use my experience  applying a methodical way of thinking. 
 
-At Makers, I've learnt how to implement this skill into coding, breaking the problem down in small pieces using tools like flow charts,  diagrams and  domain models making a represenation of the problem and the systematic approach.
+At Makers, I've learnt how to implement this skill into coding, breaking the problem down in small pieces using tools like flow charts,  diagrams and  domain models making a representation of the problem and the systematic approach.
 
 
 ### Teamplayer
 
-Working as a part of a team is a must in Critical Care where everyone has to bring their best, sharing ideas and learning from others, in order to achieve a common goal. Improving the patient's condition.
+Working as a part of a team is a must in Critical Care where everyone has to bring their best, sharing ideas and learning from others in order to achieve a common goal. 
 
-Whilst at Makers, I've enjoyed learning from others sharing my experience and achieving common goals in a teamwork environment, implementing a feedback culture which helped me to keep motivated, developing my skills and achieving personal goals. An example of this would be the achievement of a practice group project in 5 days, in this project our main goal was to build an app where the user can receive notifications 
+Whilst at Makers, I've enjoyed learning from others and implementing a feedback culture to achieve common goals in a teamwork environment. This helps me to keep motivated and. For example, to facilitate collaborative teamwork, I've run daily stand-ups and retros as well as knowledge sharing sessions to encourage group discussion and ensure team members are aligned on our shared objectives.
 
 
 ### Commitment
@@ -105,7 +104,8 @@ Faculty of Health and Society
 
 ## Languages
 
-- Spanish(mother language)
+- Spanish (native)
+- English (fluent)
 
 
 ## Interests
