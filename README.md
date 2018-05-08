@@ -25,7 +25,7 @@ My main goal after Makers is to join the software development team of a tech com
 |  [Localiz R](https://github.com/jennymarin1989/LocalizR.git) | Final project where the goal of the group is to build an interactive app that takes the user on a language-learning journey. | React, node.js, Express, mongodb, jest |
 |  [Mediminder](https://github.com/jennymarin1989/mediminder.git) | An ios app which reminds the user to take the medication with a notification. Built as a practice project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode 9.2, XCtest |
 |   [Color Converter](https://github.com/jennymarin1989/Color_converter-node.js)  | A solo project where the goal was to build a color translator from RGB to Hexadecimal color representation| Node.js, Express.js, Mocha, Chai|
-|   [Fotogram](https://github.com/jennymarin1989/instagram-challenge.git)  | A solo project where the goal was to build a version of Instagram whilst using/learning Ruby on Rails | Ruby, Rails, Rspec|
+|   [DJ React](https://github.com/jennymarin1989/React-DJ-list)  | A solo project where the goal was to build a simple application where the DJ can display a list of songs of a given year | React, Enzyme, Jest, CSS|
 
 
 
