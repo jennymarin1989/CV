@@ -43,18 +43,18 @@ At Makers, I've learnt how to implement this skill into coding, breaking the pro
 
 Working as a part of a team is a must in Critical Care where everyone has to bring their best, sharing ideas and learning from others in order to achieve a common goal. 
 
-Whilst at Makers, I've enjoyed learning from others and implementing a feedback culture to achieve common goals in a teamwork environment. This helps me to keep motivated and. For example, to facilitate collaborative teamwork, I've run daily stand-ups and retros as well as knowledge sharing sessions to encourage group discussion and ensure team members are aligned on our shared objectives.
+Whilst at BBC, I've enjoyed learning from others and implementing a feedback culture to achieve common goals in a teamwork environment. This helps me to keep motivated and. For example, to facilitate collaborative teamwork, I've run daily stand-ups and retros as well as knowledge sharing sessions to encourage group discussion and ensure team members are aligned on our shared objectives.
 
 
 ### Commitment
 
 I'm a focused and a passionate person who works hard towards an objective without giving up.
-Whilst at Makers I had to face some challenges but I stayed motivated and I could accomplish my goals.
+Whilst at BBC I had to face some challenges but I stayed motivated and I could accomplish my goals.
 
 
 ### Achievements and contributions
 
-One of my biggest achievements in my career was my contribution to the growth of the Postoperative Care unit helping to create new guidelines and training new staff.
+One of my biggest achievements in my nursing career was my contribution to the growth of the Postoperative Care unit helping to create new guidelines and training new staff.
 
 In Makers, one of my significants achievements was  working as a part of a team in a practice and final project, learning from others, contributing with ideas and getting a full-stack web application as a result.
 
@@ -87,14 +87,7 @@ Faculty of Health and Society
 
 ## Experience
 
-
-**Quiron Hospital**(September 2010 - December 2013)
-*RN Nurse in Accident and Emergency Unit (Malaga-Spain)*
-
-**Great Western Hospital** (March 2014 to August 2014)
-*RN Nurse in Acute Medical Unit (Swindon)*
-
-**Great Western Hospital** (August 2014 to February 2015)   
+**Great Western Hospital** (February2014 to February 2015)   
 *RN nurse in Acute Stroke Unit*  
 
 **Ealing Hospital** (March 2015 to November 2016)
@@ -102,6 +95,12 @@ Faculty of Health and Society
 
 **Ealing Hospital** (November 2016 to December 2017)
 *Band 6 senior Staff Nurse in Intensive Care Unit (London)*
+
+**Healthera** (April to June 2019)
+*Junior Software Engineer*
+
+**BBC** (July 2018 to currently)
+*Junior Software Engineer*
 
 ## Languages
 
