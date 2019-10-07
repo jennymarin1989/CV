@@ -26,6 +26,7 @@ My main goal after Makers is to join the software development team of a tech com
 |  [Mediminder](https://github.com/jennymarin1989/mediminder.git) | An ios app which reminds the user to take the medication with a notification. Built as a practice project where the goal of the group was to build a full-stack application in a new language.  | Swift, Xcode 9.2, XCtest |
 |   [Color Converter](https://github.com/jennymarin1989/Color_converter-node.js)  | A solo project where the goal was to build a color translator from RGB to Hexadecimal color representation| Node.js, Express.js, Mocha, Chai|
 |   [DJ React](https://github.com/jennymarin1989/React-DJ-list)  | A solo project where the goal was to build a simple application where the DJ can display a list of songs of a given year | React, Enzyme, Jest, CSS|
+|   [Neuro Gallery](https://github.com/jennymarin1989/Neuro-Gallery)  | A solo project in progress where the goal is to build a photo gallery where the user can go to the next/previous photo with the blink of the eye | Node JS, think gear sockets, Socket.io, React Hooks|
 
 
 
